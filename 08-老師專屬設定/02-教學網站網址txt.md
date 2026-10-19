@@ -11,8 +11,10 @@
 用記事本打開，把裡面的網址那一行換成你要連去的網址即可：
 
 ```
-https://mbcrobot89.github.io/mbc-blockcode-guide/
+https://mbc-pro-sensors.github.io/mbc-blockcode-guide/
 ```
+
+> 比較早安裝的軟體，這個檔案裡可能是舊網址 `https://mbcrobot89.github.io/mbc-blockcode-guide/`，一樣打得開，不用改。
 
 - 網址一定要用 `http://` 或 `https://` 開頭。
 - 只留一行網址，不要把這行拆成好幾行。
